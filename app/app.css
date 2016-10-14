@@ -1,9 +1,13 @@
 @import url("~/platform.css");
+<<<<<<< HEAD
 
+=======
+>>>>>>> b139490f66f6e74471a54dc054c5ea9bc3829cac
 Page {
   background-color: white;
   font-size: 15;
 }
+<<<<<<< HEAD
 .list-page {
   background-image: url("res://bg_inner");
   background-repeat: no-repeat;
@@ -14,10 +18,21 @@ ActionBar {
   background-color: black;
   color: white;
 }
+=======
+>>>>>>> b139490f66f6e74471a54dc054c5ea9bc3829cac
 TextField {
   padding: 10;
   font-size: 13;
 }
+<<<<<<< HEAD
 .line-through {
   text-decoration: line-through;
 }
+=======
+.small-spacing {
+  margin: 5;
+}
+.medium-spacing {
+  margin: 10;
+}
+>>>>>>> b139490f66f6e74471a54dc054c5ea9bc3829cac
